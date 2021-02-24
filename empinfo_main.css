@@ -172,6 +172,13 @@ body {
 	letter-spacing: 1px;
 	padding:3px 8px;
 }
+.txt_link2{
+	font-size:13px;
+	line-height:22px;
+	letter-spacing: 1px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
 .link_01{
 	color:#777;
 	text-decoration: underline;
